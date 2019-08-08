@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - vrview (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - vrview (from `.symlinks/plugins/vrview/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  vrview:
+    :path: ".symlinks/plugins/vrview/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  vrview: 8b9f8ebb306805d7c90f3c9e17f5093230c24da1
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.7.2
